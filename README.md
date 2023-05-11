@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hewadnoori
 - 👀 I’m interested in getting hired as a front end engineer, fullstack engineer, software engineer, or a junior developer!
-- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on any project!
 - 📫 How to reach me; hewadnoori16@gmail.com
 
